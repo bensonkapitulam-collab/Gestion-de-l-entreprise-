@@ -1,0 +1,6 @@
+{
+  "name": "Gestion Boutique",
+  "description": "Application de gestion de boutique hors-ligne : facturation, arrivages, suivi des stocks, classement des clients et bilans journaliers, hebdomadaires et mensuels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

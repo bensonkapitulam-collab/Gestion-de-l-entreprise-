@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gestion Boutique</string>
+    <string name="boutique_name">Maison La Grance divine</string>
+    <string name="lock_button">Verrouiller</string>
+    <string name="create_password_title">Créer votre mot de passe</string>
+    <string name="enter_password_title">Mot de passe</string>
+    <string name="create_password_desc">Ce mot de passe sera demandé à chaque ouverture (6 caractères minimum).</string>
+    <string name="enter_password_desc">Entrez votre mot de passe pour ouvrir le logiciel.</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="confirm_password_hint">Confirmer le mot de passe</string>
+    <string name="save_button">Enregistrer</string>
+    <string name="open_button">Ouvrir</string>
+    <string name="err_min_chars">6 caractères minimum.</string>
+    <string name="err_mismatch">Les mots de passe diffèrent.</string>
+    <string name="err_wrong_password">Mot de passe incorrect.</string>
+</resources>
