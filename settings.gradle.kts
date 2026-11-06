@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Gestion Boutique"
+rootProject.name = "La Grance Divine"
 
 include(":app")

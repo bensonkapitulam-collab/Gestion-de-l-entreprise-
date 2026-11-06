@@ -94,7 +94,7 @@ fun LockScreen(
                 verticalArrangement = Arrangement.spacedBy(12.dp)
             ) {
                 Image(
-                    painter = painterResource(id = R.drawable.boutique_icon_1793964344900),
+                    painter = painterResource(id = R.drawable.la_grance_divine_icon),
                     contentDescription = "Logo Maison La Grance divine",
                     modifier = Modifier
                         .size(72.dp)

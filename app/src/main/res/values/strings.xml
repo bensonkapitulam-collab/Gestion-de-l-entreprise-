@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gestion Boutique</string>
+    <string name="app_name">La Grance Divine</string>
     <string name="boutique_name">Maison La Grance divine</string>
     <string name="lock_button">Verrouiller</string>
     <string name="create_password_title">Créer votre mot de passe</string>

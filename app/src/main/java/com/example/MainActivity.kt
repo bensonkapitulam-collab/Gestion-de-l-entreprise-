@@ -175,8 +175,8 @@ private fun MainShopApp(vm: ShopViewModel) {
                 title = {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         Image(
-                            painter = painterResource(id = R.drawable.boutique_icon_1793964344900),
-                            contentDescription = "Logo Gestion Boutique",
+                            painter = painterResource(id = R.drawable.la_grance_divine_icon),
+                            contentDescription = "Logo La Grance Divine",
                             modifier = Modifier
                                 .size(32.dp)
                                 .clip(RoundedCornerShape(8.dp)),
@@ -184,7 +184,7 @@ private fun MainShopApp(vm: ShopViewModel) {
                         )
                         Spacer(modifier = Modifier.width(10.dp))
                         Text(
-                            text = "Gestion Boutique",
+                            text = "La Grance Divine",
                             style = MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold),
                             color = MaterialTheme.colorScheme.onBackground
                         )
